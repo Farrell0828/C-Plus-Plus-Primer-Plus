@@ -1,7 +1,5 @@
 // test.cpp -- test somethings
 #include <iostream>
-#include <string>
-#include <memory>
 
 int main()
 {
