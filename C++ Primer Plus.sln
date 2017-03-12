@@ -385,6 +385,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16.19 usealgo", "16.19 usea
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16.20 valvect", "16.20 valvect\16.20 valvect.vcxproj", "{87191883-84B1-4B37-B714-1621739994BC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16.21 vslice", "16.21 vslice\16.21 vslice.vcxproj", "{7768F639-4720-48A3-8648-82E8D2B9733E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1921,6 +1923,14 @@ Global
 		{87191883-84B1-4B37-B714-1621739994BC}.Release|x64.Build.0 = Release|x64
 		{87191883-84B1-4B37-B714-1621739994BC}.Release|x86.ActiveCfg = Release|Win32
 		{87191883-84B1-4B37-B714-1621739994BC}.Release|x86.Build.0 = Release|Win32
+		{7768F639-4720-48A3-8648-82E8D2B9733E}.Debug|x64.ActiveCfg = Debug|x64
+		{7768F639-4720-48A3-8648-82E8D2B9733E}.Debug|x64.Build.0 = Debug|x64
+		{7768F639-4720-48A3-8648-82E8D2B9733E}.Debug|x86.ActiveCfg = Debug|Win32
+		{7768F639-4720-48A3-8648-82E8D2B9733E}.Debug|x86.Build.0 = Debug|Win32
+		{7768F639-4720-48A3-8648-82E8D2B9733E}.Release|x64.ActiveCfg = Release|x64
+		{7768F639-4720-48A3-8648-82E8D2B9733E}.Release|x64.Build.0 = Release|x64
+		{7768F639-4720-48A3-8648-82E8D2B9733E}.Release|x86.ActiveCfg = Release|Win32
+		{7768F639-4720-48A3-8648-82E8D2B9733E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
