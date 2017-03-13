@@ -387,6 +387,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16.20 valvect", "16.20 valv
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16.21 vslice", "16.21 vslice\16.21 vslice.vcxproj", "{7768F639-4720-48A3-8648-82E8D2B9733E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16.22 ilist", "16.22 ilist\16.22 ilist.vcxproj", "{CFE3DF63-EE25-4E64-A267-2249A187136E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1931,6 +1933,14 @@ Global
 		{7768F639-4720-48A3-8648-82E8D2B9733E}.Release|x64.Build.0 = Release|x64
 		{7768F639-4720-48A3-8648-82E8D2B9733E}.Release|x86.ActiveCfg = Release|Win32
 		{7768F639-4720-48A3-8648-82E8D2B9733E}.Release|x86.Build.0 = Release|Win32
+		{CFE3DF63-EE25-4E64-A267-2249A187136E}.Debug|x64.ActiveCfg = Debug|x64
+		{CFE3DF63-EE25-4E64-A267-2249A187136E}.Debug|x64.Build.0 = Debug|x64
+		{CFE3DF63-EE25-4E64-A267-2249A187136E}.Debug|x86.ActiveCfg = Debug|Win32
+		{CFE3DF63-EE25-4E64-A267-2249A187136E}.Debug|x86.Build.0 = Debug|Win32
+		{CFE3DF63-EE25-4E64-A267-2249A187136E}.Release|x64.ActiveCfg = Release|x64
+		{CFE3DF63-EE25-4E64-A267-2249A187136E}.Release|x64.Build.0 = Release|x64
+		{CFE3DF63-EE25-4E64-A267-2249A187136E}.Release|x86.ActiveCfg = Release|Win32
+		{CFE3DF63-EE25-4E64-A267-2249A187136E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
